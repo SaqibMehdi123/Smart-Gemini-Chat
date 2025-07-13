@@ -22,7 +22,7 @@ pip install requests python-dotenv sentence-transformers scikit-learn numpy
 
 GEMINI_API_KEY=your_gemini_api_key_here
 
-Get your API key from `Google AI Studio(https://aistudio.google.com/apikey)`.
+Get your API key from [Google AI Studio](https://aistudio.google.com/apikey).
 
 ## Usage
 python gemini_chat.py
