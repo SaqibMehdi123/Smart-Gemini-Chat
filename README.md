@@ -16,7 +16,7 @@ Real-time Similarity Reports for each message
 ```bash
 git clone https://github.com/SaqibMehdi123/Smart-Gemini-Chat.git
 cd Smart-Gemini-Chat
-pip install requests python-dotenv sentence-transformers scikit-learn numpy
+pip install requests python-dotenv sentence-transformers scikit-learn numpy```
 
 ### 2. Create .env file
 
