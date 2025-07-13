@@ -49,4 +49,4 @@ python gemini_chat.py
 4. Chat history is automatically saved and loaded
 
 ## Author
-Saqib Mehdi - @SaqibMehdi123
+Saqib Mehdi - [@SaqibMehdi123](@SaqibMehdi123)
