@@ -30,19 +30,16 @@ python gemini_chat.py
 ```
 ### Commands:
 
-Chat normally with Gemini
-clear - Clear conversation history
-exit - Exit application
+- Chat normally with Gemini
+- clear - Clear conversation history
+- exit - Exit application
 
 ## Similarity Scoring
 
-0.8-1.0: Very similar messages
-
-0.6-0.8: Moderately similar
-
-0.4-0.6: Some similarity
-
-0.0-0.4: Low similarity
+- 0.8-1.0: Very similar messages
+- 0.6-0.8: Moderately similar
+- 0.4-0.6: Some similarity
+- 0.0-0.4: Low similarity
 
 ## How It Works
 
