@@ -2,7 +2,7 @@
 
 A conversational AI chatbot using Google's Gemini API with semantic search capabilities powered by sentence transformers for intelligent conversation history analysis.
 
-## 🚀 Features
+## Features
 
 - **Conversational AI** powered by Google's Gemini 2.0 Flash
 - **Semantic Search** using sentence transformers
@@ -10,7 +10,7 @@ A conversational AI chatbot using Google's Gemini API with semantic search capab
 - **Persistent Chat History** with automatic save/load
 - **Real-time Similarity Reports** for each message
 
-## 📋 Installation
+## Installation
 
 ### 1. Clone and setup
 ```bash
