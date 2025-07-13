@@ -36,17 +36,17 @@ python gemini_chat.py
 
 ## Similarity Scoring
 
-- 0.8-1.0: Very similar messages
-- 0.6-0.8: Moderately similar
-- 0.4-0.6: Some similarity
-- 0.0-0.4: Low similarity
+- **0.8-1.0**: Very similar messages
+- **0.6-0.8**: Moderately similar
+- **0.4-0.6**: Some similarity
+- **0.0-0.4**: Low similarity
 
 ## How It Works
 
-Messages are converted to embeddings using sentence transformers
-Cosine similarity is calculated against conversation history
-Real-time similarity reports show related previous conversations
-Chat history is automatically saved and loaded
+1. Messages are converted to embeddings using sentence transformers
+2. Cosine similarity is calculated against conversation history
+3. Real-time similarity reports show related previous conversations
+4. Chat history is automatically saved and loaded
 
 ## Author
 Saqib Mehdi - @SaqibMehdi123
