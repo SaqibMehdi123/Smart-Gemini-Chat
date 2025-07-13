@@ -13,14 +13,15 @@ Real-time Similarity Reports for each message
 
 ### 1. Clone and setup
 
-bashgit clone https://github.com/SaqibMehdi123/Smart-Gemini-Chat.git
+```bash
+git clone https://github.com/SaqibMehdi123/Smart-Gemini-Chat.git
 cd Smart-Gemini-Chat
 pip install requests python-dotenv sentence-transformers scikit-learn numpy
 
 ### 2. Create .env file
 
-envGEMINI_API_KEY=your_gemini_api_key_here
-Get your API key from Google AI Studio.
+GEMINI_API_KEY=your_gemini_api_key_here
+Get your API key from `[Google AI Studio](https://aistudio.google.com/apikey)`.
 
 ## Usage
 python gemini_chat.py
