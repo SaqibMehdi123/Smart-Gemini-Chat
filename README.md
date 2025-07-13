@@ -1,6 +1,7 @@
 # Smart-Gemini-Chat
 A conversational AI chatbot using Google's Gemini API with semantic search capabilities powered by sentence transformers for intelligent conversation history analysis.
-🚀 Features
+
+## Features
 
 Conversational AI powered by Google's Gemini 2.0 Flash
 Semantic Search using sentence transformers
@@ -10,19 +11,21 @@ Real-time Similarity Reports for each message
 
 ## Installation
 
-Clone and setup
+### 1. Clone and setup
 
 bashgit clone https://github.com/SaqibMehdi123/Smart-Gemini-Chat.git
 cd Smart-Gemini-Chat
 pip install requests python-dotenv sentence-transformers scikit-learn numpy
 
-Create .env file
+### 2. Create .env file
 
 envGEMINI_API_KEY=your_gemini_api_key_here
 Get your API key from Google AI Studio.
-💻 Usage
-bashpython gemini_chat.py
-Commands:
+
+## Usage
+python gemini_chat.py
+
+### Commands:
 
 Chat normally with Gemini
 clear - Clear conversation history
