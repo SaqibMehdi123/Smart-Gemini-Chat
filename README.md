@@ -25,8 +25,9 @@ GEMINI_API_KEY=your_gemini_api_key_here
 Get your API key from [Google AI Studio](https://aistudio.google.com/apikey).
 
 ## Usage
+```bash
 python gemini_chat.py
-
+```
 ### Commands:
 
 Chat normally with Gemini
@@ -36,8 +37,11 @@ exit - Exit application
 ## Similarity Scoring
 
 0.8-1.0: Very similar messages
+
 0.6-0.8: Moderately similar
+
 0.4-0.6: Some similarity
+
 0.0-0.4: Low similarity
 
 ## How It Works
