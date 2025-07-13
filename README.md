@@ -17,7 +17,7 @@ A conversational AI chatbot using Google's Gemini API with semantic search capab
 git clone https://github.com/SaqibMehdi123/Smart-Gemini-Chat.git
 cd Smart-Gemini-Chat
 pip install requests python-dotenv sentence-transformers scikit-learn numpy
-
+```
 ### 2. Create .env file
 
 GEMINI_API_KEY=your_gemini_api_key_here
